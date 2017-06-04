@@ -2,34 +2,34 @@
 # yarn lockfile v1
 
 
-"@nestjs/common@^2.1.0":
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/@nestjs/common/-/common-2.1.0.tgz#93f08c1ba2a9915c94c85baa0032beade9abdfcf"
+"@nestjs/common@^3.0.0":
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/@nestjs/common/-/common-3.0.0.tgz#66e21d71eb03585d20c4df4962adf55b46a03c2a"
   dependencies:
     cli-color "1.1.0"
 
-"@nestjs/core@^2.1.1":
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/@nestjs/core/-/core-2.1.1.tgz#12ac588ea6997e627bb377b4b7ac93b98bc3377a"
+"@nestjs/core@^3.0.0":
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/@nestjs/core/-/core-3.0.0.tgz#d84e448bd75e616235e3db3a5a28ba3596709e3d"
   dependencies:
     express "4.14.0"
     iterare "0.0.8"
 
-"@nestjs/microservices@^2.1.0":
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/@nestjs/microservices/-/microservices-2.1.0.tgz#11ecd785a98181e7202eed508a63abc01f5e4832"
+"@nestjs/microservices@^3.0.0":
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/@nestjs/microservices/-/microservices-3.0.0.tgz#0d27fc9e2daaf4392edbe3c5fdd7388abbe4ad6c"
   dependencies:
     iterare "0.0.8"
     json-socket "^0.2.1"
     redis "^2.6.5"
 
-"@nestjs/testing@^2.0.3":
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/@nestjs/testing/-/testing-2.0.3.tgz#e83affb374d855e0ac3e128b9e4fe607e4a03045"
+"@nestjs/testing@^3.0.0":
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/@nestjs/testing/-/testing-3.0.0.tgz#06db2bb065f88334b08b49dd909475847d592a1f"
 
-"@nestjs/websockets@^2.1.0":
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/@nestjs/websockets/-/websockets-2.1.0.tgz#6a15040dff523ff0a79b74655266d2b6477dfd44"
+"@nestjs/websockets@^3.0.0":
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/@nestjs/websockets/-/websockets-3.0.0.tgz#d19e3965a6e6d8525a227014f49d91f88e2c0d7b"
   dependencies:
     iterare "0.0.8"
     socket.io "^1.7.2"
